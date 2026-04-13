@@ -1,7 +1,3 @@
-# Engenharia-de-Software
-Referente a Matéria da UCB-Engenharia de Software, do curso Ciências da Computação
-Realizar Login no Sistema
-
 HU - 01
 Descrição:
 Como um usuário do sistema, eu quero informar meu e-mail/login e senha para acessar minha conta com segurança.
